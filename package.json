@@ -1,0 +1,11 @@
+{
+  "name": "au-syntax",
+  "theme": "syntax",
+  "version": "0.28.0",
+  "description": "A dark theme for syntax",
+  "repository": "https://github.com/i2x/au-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
